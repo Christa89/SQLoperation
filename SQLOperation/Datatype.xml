@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<datatypes>
+  
+  <data>
+      <id>
+    1
+  </id>
+  <datatype>
+   Select DataType
+  </datatype>
+  </data>
+  
+  <data>
+      <id>
+    2
+  </id>
+  <datatype>
+   varchar
+  </datatype>
+  </data>
+
+  <data>
+  <id>
+    3
+  </id>
+  <datatype>
+   nvarchar
+  </datatype>
+  </data>
+  
+    <data>
+  <id>
+    4
+  </id>
+  <datatype>
+   char
+  </datatype>
+    </data>
+    <data>
+  <id>
+   5
+  </id>
+  <datatype>
+   datetime
+  </datatype>
+  </data>
+        <data>
+  <id>
+   6
+  </id>
+  <datatype>
+   date
+  </datatype>
+  </data>
+    <data>
+  <id>
+   7
+  </id>
+  <datatype>
+   numeric
+  </datatype>
+</data>
+  <data>
+  <id>
+   8
+  </id>
+  <datatype>
+   int
+  </datatype>
+</data>
+
+ <data>
+  <id>
+   9
+  </id>
+  <datatype>
+   float
+  </datatype>
+</data>
+</datatypes>

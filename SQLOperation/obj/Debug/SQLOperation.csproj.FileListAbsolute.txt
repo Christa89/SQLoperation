@@ -1,1 +1,9 @@
 D:\GitHub\MusicLibrary\SQLOperation\SQLOperation\bin\Debug\SQLOperation.exe.config
+D:\GitHub\MusicLibrary\SQLOperation\SQLOperation\bin\Debug\SQLOperation.exe
+D:\GitHub\MusicLibrary\SQLOperation\SQLOperation\bin\Debug\SQLOperation.pdb
+D:\GitHub\MusicLibrary\SQLOperation\SQLOperation\obj\Debug\SQLOperation.csprojResolveAssemblyReference.cache
+D:\GitHub\MusicLibrary\SQLOperation\SQLOperation\obj\Debug\SQLOperation.Form1.resources
+D:\GitHub\MusicLibrary\SQLOperation\SQLOperation\obj\Debug\SQLOperation.Properties.Resources.resources
+D:\GitHub\MusicLibrary\SQLOperation\SQLOperation\obj\Debug\SQLOperation.csproj.GenerateResource.Cache
+D:\GitHub\MusicLibrary\SQLOperation\SQLOperation\obj\Debug\SQLOperation.exe
+D:\GitHub\MusicLibrary\SQLOperation\SQLOperation\obj\Debug\SQLOperation.pdb
